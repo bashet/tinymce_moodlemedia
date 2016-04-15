@@ -1,1 +1,17 @@
 # tinymce_moodlemedia
+
+How to upgrade
+--------------
+1. Download the dev branch from git repository as zip.
+2. Unzip and rename the directory as "moodlemedia".
+3. Make sure all the child directory (lang,pix,tinymce and files on the same level) are at first step accessible inside the "moodlemedia" directory.
+4. Copy the "moodlemedia" directory into clip board.
+5. Go to docroot/lib/editor/tinymce/plugins
+6. Replace the "moodlemedia" directory with new one.
+7. Login to Moodle as Site Administrator
+8. Please follow the procedure to upgrade the plugin as Administrator.
+
+Note: This plugin comes with original installation (means it's part of core code).
+
+
+
