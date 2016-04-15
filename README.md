@@ -2,7 +2,6 @@
 
 What is the change?
 -------------------
-This will make sure about access rights and level of access for Moodlemedia in TinyMCE. Please see below:
 1. Courses only under root category will have the option to add moodlemedia.
 2. Anybody who does not have access right to change course content (such as students) won't able to use moodlemedia
 3. Moodlemedia icon is available only in real course structure. Even when you are in category level or site home or updating message for maintenance mode (the are not a moodle course), you won't be able to see the moodlemedia icon in toolbar.
