@@ -11,7 +11,7 @@ How to upgrade
 7. Login to Moodle as Site Administrator
 8. Please follow the procedure to upgrade the plugin as Administrator.
 
-Note: This plugin comes with original installation (means it's part of core code).
+Note: This plugin comes with original installation (means it's part of core code). We need to be extra careful when we do the next upgrade of Moodle.
 
 
 
