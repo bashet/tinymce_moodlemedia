@@ -4,7 +4,7 @@ What is the change?
 -------------------
 1. Courses only under root category will have the option to add moodlemedia.
 2. Anybody who does not have access right to change course content (such as students) won't able to use moodlemedia
-3. Moodlemedia icon is available only in real course structure. Even when you are in category level or site home or updating message for maintenance mode (the are not a moodle course), you won't be able to see the moodlemedia icon in toolbar.
+3. Moodlemedia icon is available only in real course structure. Even when you are in category level or site home or updating message for maintenance mode (they are not a moodle course), you won't be able to see the moodlemedia icon in toolbar.
 
 
 How to upgrade
