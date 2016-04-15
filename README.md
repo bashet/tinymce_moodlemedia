@@ -9,7 +9,7 @@ What is the change?
 
 How to upgrade
 --------------
-1. Download the dev branch from git repository as zip.
+1. Download the dev branch from https://github.com/bashet/tinymce_moodlemedia as zip.
 2. Unzip and rename the directory as "moodlemedia".
 3. Make sure all the child directory (lang,pix,tinymce and files on the same level) are at first step accessible inside the "moodlemedia" directory.
 4. Copy the "moodlemedia" directory into clip board.
